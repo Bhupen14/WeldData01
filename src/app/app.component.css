@@ -1,0 +1,36 @@
+.menuBar
+{
+    position: relative;
+    float: left;
+    height:300px;
+    width:150px;
+    border: 1px solid lightgray;
+    clear: both
+}
+
+.menubtn
+{
+    height:40px;
+    width: 100%;
+}
+
+.menubtn:hover
+{
+    font-size: 20px;
+    background-color: lightcyan;
+    color: blue;
+
+}
+.mnubtn:active
+{
+    font-size: 20px;
+}
+
+
+.btnLogout
+{
+    /* position: relative;*/
+    float: right; 
+    margin : 0px 0px 0px 0px;    
+}
+
